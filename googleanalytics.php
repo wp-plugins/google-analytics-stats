@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: Google Analytics Stats
-Plugin URI: http://chris-fletcher.com/
+Plugin URI: http://chris-fletcher.com/plug-ins/google-analytics-stats/
 Description: Shows a graph on the Dashboard page, with 3 Google Analytics metrics: Page Views, Visits, New Visits in 3 different colors. All you have to do
 			 is put in your gmail username and password and the profile name of the metrics you want to display.
+
+			 New in Version 1.1 - You can now turn on and off any one of the 3 metrics being displayed in your chart and you can also turn the animation on or off.
 Author: Chris Fletcher
-Version: 1.0
+Version: 1.1
 Author URI: http://chris-fletcher.com
 */
 
